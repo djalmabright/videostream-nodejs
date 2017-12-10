@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-videostream",
+  "version": "1.0.0",
+  "description": "video streaming application ",
+  "main": "video-streaming.js",
+  "scripts": {
+    "start":"node video-streaming.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "video",
+    "streaming",
+    "express"
+  ],
+  "author": "Djalma Bina",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
